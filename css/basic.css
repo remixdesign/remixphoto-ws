@@ -1,0 +1,117 @@
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	color: #ffffff;
+	background-color: #666666;
+	margin: 0px;
+	padding: 3px 7px;
+}
+
+input, textarea {
+	background-color: #ffffff;
+	color: #333333;
+	border: 1px solid #666666;
+}
+
+textarea {
+	width: 95%;
+}
+
+input.submit {
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #000000;
+	border: 1px solid #000000;
+}
+
+img {
+	border: 0px;
+}
+
+a:link, a:active {
+	color: #ffffff;
+}
+
+a:visited {
+	color: #000000;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+hr {
+	margin: 15px 0px;
+}
+
+.gallery_heading, .section_heading {
+	font-size: 24px;
+	color: #ffffff;
+	line-height: 26px;
+}
+
+.section_subhead {
+	font-size: 16px;
+}
+
+.outdent {
+	/* margin-left: -30px; */
+	position: relative;
+	left: -30px;
+}
+
+.section_separator {
+	height: 25px;
+	clear: both;
+}
+
+.section_thumb {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.gallery_subhead {
+	font-style: italic;
+}
+
+.keywords {
+	width: 480px;
+	margin: 1px;
+}
+
+.gallery_action {
+	color: #ffffff;
+	font-size: 16px;
+	margin: 1px;
+}
+
+.thumbnail {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	width: 50px;
+	height: 50px;
+}
+
+.left {
+	float: left;
+	margin-right: 10px;
+}
+
+.right {
+	float: right;
+	margin-left: 10px;
+}
+
+.center {
+	text-align: center;
+}
+
+.smallprint {
+	font-size: 9px;	
+}
+
+.clear {
+	clear: both;
+}

@@ -1,0 +1,7 @@
+.section_column li {
+	list-style-type: none;
+}
+
+.section_column ul li {
+	margin: 5px 0px 15px 20px;
+}
